@@ -1,3 +1,3 @@
-If nothing else, today I am going to _cut a final copy of the 2nd whiteboard video_.
-I am going to do this by _rerecord_ then _rerecord_ then _share it with the team_.
+If nothing else, today I am going to _get an Ansible playbook together_.
+I am going to do this by _reviewing what’s needed_ then _build a main.yml full of roles_ then _make sure it works_.
 If I do this and only this, today will be a good day.
