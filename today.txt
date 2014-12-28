@@ -1,3 +1,3 @@
-If nothing else, today I am going to _get an Ansible playbook together_.
-I am going to do this by _reviewing what’s needed_ then _build a main.yml full of roles_ then _make sure it works_.
+If nothing else, today I am going to _enjoying time with my nieces_.
+I am going to do this by _playing with my little niece_ then _hang out with my middle niece_ then _text with the eldest_.
 If I do this and only this, today will be a good day.
